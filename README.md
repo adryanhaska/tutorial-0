@@ -4,6 +4,6 @@ NPM   : 2106750641
 
 Kelas : E 
 
-Hobi  : Tidur
+Hobi  : Tidur - Tidur
 
 Makanan favorit : ayam
